@@ -1,6 +1,9 @@
 annotated-types==0.7.0
 anyio==4.6.2.post1
+<<<<<<< HEAD
 argon2-cffi==23.1.0
+=======
+>>>>>>> d7dd93c (Allow Host Changes)
 argon2-cffi-bindings==21.2.0
 arrow==1.3.0
 asgiref==3.8.1
@@ -16,7 +19,10 @@ charset-normalizer==3.4.0
 class-registry==2.1.2
 colorama==0.4.6
 comm==0.2.2
+<<<<<<< HEAD
 coreapi==2.3.3
+=======
+>>>>>>> d7dd93c (Allow Host Changes)
 coreschema==0.0.4
 debugpy==1.8.7
 decorator==5.1.1
@@ -25,11 +31,18 @@ distlib==0.3.8
 distro==1.9.0
 Django==5.1.2
 django-filter==24.3
+<<<<<<< HEAD
 django-rest-swagger==2.2.0
 django-social-share==2.3.0
 djangorestframework==3.15.2
 djangorestframework-simplejwt==5.3.1
 drf-nested-routers==0.94.1
+=======
+django-social-share==2.3.0
+djangorestframework==3.15.2
+djongo==1.3.7
+dnspython==2.7.0
+>>>>>>> d7dd93c (Allow Host Changes)
 drf-yasg==1.21.8
 executing==2.1.0
 fastjsonschema==2.20.0
@@ -43,9 +56,13 @@ httpcore==1.0.6
 httpx==0.27.2
 idna==3.10
 inflection==0.5.1
+<<<<<<< HEAD
 ipykernel==6.29.5
 ipython==8.28.0
 ipywidgets==8.1.5
+=======
+ipython==8.28.0
+>>>>>>> d7dd93c (Allow Host Changes)
 isoduration==20.11.0
 itypes==1.2.0
 jedi==0.19.1
@@ -54,6 +71,7 @@ json5==0.9.25
 jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
+<<<<<<< HEAD
 jupyter==1.1.1
 jupyter-console==6.6.3
 jupyter-events==0.10.0
@@ -76,6 +94,18 @@ nest-asyncio==1.6.0
 notebook==7.2.2
 notebook_shim==0.2.4
 openapi-codec==1.3.2
+=======
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+jupyter_server_terminals==0.5.3
+jupyterlab_pygments==0.3.0
+jupyterlab_widgets==3.0.13
+legacy-cgi==2.6.2
+MarkupSafe==3.0.2
+matplotlib-inline==0.1.7
+mistune==3.0.2
+nest-asyncio==1.6.0
+>>>>>>> d7dd93c (Allow Host Changes)
 overrides==7.7.0
 packaging==24.1
 pandocfilters==1.5.1
@@ -92,6 +122,10 @@ pydantic==2.10.3
 pydantic_core==2.27.1
 Pygments==2.18.0
 PyJWT==2.10.0
+<<<<<<< HEAD
+=======
+pymongo==3.11.4
+>>>>>>> d7dd93c (Allow Host Changes)
 pyotp==2.9.0
 python-dateutil==2.9.0.post0
 python-decouple==3.8
